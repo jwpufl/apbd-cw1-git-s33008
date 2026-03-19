@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Proj");
 
         // definitely added console input reading
+
+        // i definitely added bad message handling
     }
 }
