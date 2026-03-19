@@ -8,4 +8,6 @@ public class StatisticsHelper {
     public void CalculateMax(int[] values){
         System.out.println("CALCULATOR REAL MAX among us.");
     }
+    public void CalculateMin(int[] values){
+    }
 }
