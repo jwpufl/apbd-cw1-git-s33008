@@ -8,6 +8,6 @@ public class Main {
 
         //"Connect StatisticsHelper to main program flow"
         StatisticsHelper a = new StatisticsHelper();
-        
+
     }
 }
