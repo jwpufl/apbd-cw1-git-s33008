@@ -5,5 +5,9 @@ public class Main {
         // definitely added console input reading
 
         // i definitely added bad message handling
+
+        //"Connect StatisticsHelper to main program flow"
+        StatisticsHelper a = new StatisticsHelper();
+        
     }
 }
